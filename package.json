@@ -1,0 +1,22 @@
+{
+  "name": "callback-add",
+  "version": "1.0.0",
+  "description": "This package is callback addition that will add two numbers by callback method.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassan-Jamal/CallBack-Add.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Hassan Jamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hassan-Jamal/CallBack-Add/issues"
+  },
+  "homepage": "https://github.com/Hassan-Jamal/CallBack-Add#readme"
+}
